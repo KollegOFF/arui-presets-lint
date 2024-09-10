@@ -1,3 +1,6 @@
+'нормальный case';
+'mixed сase';
+
 import React from 'react';
 
 definedAfterUsage();
